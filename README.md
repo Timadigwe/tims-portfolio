@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tim Adigwe - Personal Portfolio Website
 
-## Getting Started
+A modern, responsive personal portfolio website built with Next.js, showcasing my professional experience, skills, and accomplishments in software development.
 
-First, run the development server:
+## 🚀 Features
 
+- **Modern Design**: Clean and professional layout with glass morphism effects
+- **Responsive**: Fully responsive design that works on all devices
+- **Dark Mode**: Automatic dark mode support based on system preferences
+- **Interactive Elements**: Smooth animations and transitions
+- **Performance Optimized**: Built with Next.js for optimal performance
+- **Image Optimization**: Automatic image optimization through Next.js Image component
+
+## 💻 Tech Stack
+
+- **Framework**: Next.js 14
+- **Styling**: Tailwind CSS
+- **Typography**: Geist Font Family
+- **Icons**: Custom SVG icons
+- **Deployment**: [Your deployment platform]
+
+## 🛠️ Development
+
+To run this project locally:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/timadigwe/portfolio.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Start the development server:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📱 Key Sections
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Professional Experience**: Highlighting roles at Parity Finance, SprintIQ, and other companies
+- **Technical Skills**: Showcasing expertise in Web, Mobile, and Blockchain development
+- **Photo Gallery**: Personal and professional moments
+- **Accomplishments**: Notable achievements including hackathon wins
 
-## Learn More
+## 🔗 Connect With Me
 
-To learn more about Next.js, take a look at the following resources:
+- GitHub: [@timadigwe](https://www.github.com/timadigwe)
+- LinkedIn: [Tim Adigwe](https://www.linkedin.com/in/timadigwe)
+- Twitter: [@AdigweTim](https://www.x.com/@AdigweTim)
+- Email: timothyadigwe2019@gmail.com
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[Your chosen license]
 
-## Deploy on Vercel
+## 🙏 Acknowledgments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js](https://nextjs.org) for the amazing framework
+- [Tailwind CSS](https://tailwindcss.com) for the utility-first CSS framework
+- [Vercel](https://vercel.com) for the Geist font family
